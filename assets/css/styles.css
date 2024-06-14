@@ -679,7 +679,7 @@ button {
 .footer__img-two {
   width: 150px;
   bottom: 4rem;
-  right: 4rem;
+  left: 4rem;
 }
 
 .footer__img-one:hover,
